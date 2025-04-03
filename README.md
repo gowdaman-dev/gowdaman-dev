@@ -1,45 +1,16 @@
-### Hi there, I'm Gowdaman P 👋
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<!-- Animated Introduction -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFC6FE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Freelancer;Open-Source+Contributor;Tech+Innovator;Problem+Solver" alt="Typing SVG" />
-</p>
+# Hello World!, I'm Gowdaman P 👋🏼
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **AI & Web Projects**
-- 🌱 I’m learning **AI Development & Deep Learning**
-- 💬 Ask me about **Next.js, FastAPI, React, and AI**
-- 📫 How to reach me: **damangowdaman@gmail.com**
-- ⚡ Fun fact: I love **Ghibli-style art & animations!**
+🛜 currently working on my own [website](https://gowdaman.tech)<br>👨🏼‍🎓 AI enthusiast & Web Developer<br>👨🏼‍💻 Freelancer & Open-Source Contributor <br>🎬 Passionate about animations & Ghibli-style art
 
 ---
 
-### 🌟 Tech Stack
+### 💻 Tech Stack:
 
-#### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma,framer" alt="Frontend Tech" />
-</p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009639.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Apollo Server](https://img.shields.io/badge/apollo%20server-%2303113A.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FD5C63?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/framer%20motion-%23black.svg?style=for-the-badge&logo=framer&logoColor=blue) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-#### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,prisma,python,apollo,go" alt="Backend Tech" />
-</p>
-
-#### 🔧 Tools & Architecture
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,redis" alt="Tools" />
-  <br/>
-  🏗️ **N-Tier Architecture, REST & GraphQL APIs, Load Balancing, Caching Strategies**
-</p>
-
-#### 🎨 Design & Animation
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,gsap" alt="Design & Animation Tech" />
-</p>
+🏗️ **N-Tier Architecture, REST & GraphQL APIs, Load Balancing, Caching Strategies**
 
 ---
 
@@ -68,11 +39,16 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/gowdaman-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://gowdaman.tech"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=flat-square&logo=vercel&logoColor=black"/></a>
-  <a href="https://twitter.com/gowdaman_dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gowdaman-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gowdaman.tech"><img src="https://img.shields.io/badge/-Portfolio-%23FFC6FE?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://twitter.com/gowdaman_dev"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ From [Gowdaman P](https://github.com/gowdaman-dev)
+### 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/github-snake.svg" />
+</picture>
