@@ -1,78 +1,54 @@
+# 💹 TradeScan - Real-Time Trading Analytics Platform
 
-- **Redis Pub/Sub** enables service decoupling through channels like:
-  - `trade:posted`
-  - `resource:updated`
-  - `notify:user`
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)](https://nodejs.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)](https://redis.io/)
+[![Microservices](https://img.shields.io/badge/Architecture-Microservices-2496ED?logo=docker)](https://microservices.io/)
 
----
+**A scalable SaaS platform for traders to share market insights with real-time updates.**  
+Developed key modules as a freelance full-stack developer using TypeScript, Redis Pub/Sub, and Socket.IO.
 
-## 🔧 Tech Stack
-
-| Layer        | Tech Used |
-|--------------|-----------|
-| Frontend     | React.js, TypeScript, Tailwind CSS |
-| Backend      | Express.js, TypeScript, REST API |
-| Realtime     | Socket.IO |
-| Messaging    | Redis (Pub/Sub) |
-| Auth         | JWT, Role-Based Access |
-| Architecture | Microservices + API Gateway |
-| Deployment   | Docker-ready, Scalable, CI/CD Friendly |
+➡️ **Demo:** [tradescan.app](https://tradescan.app) | **Client:** TredStock.ai  
+➡️ **My Role:** Built TradeSpace (primary) and Resources (secondary) modules
 
 ---
 
-## 💼 My Contributions (Freelance Role)
+## 🎯 Key Features I Implemented
 
-### 🔷 1. TradeSpace Module (Major)
-A feature-rich module where traders and admins can publish trade analysis posts (with images, captions, and tags). Users can filter content and explore past trade patterns.
+### 📊 **TradeSpace Module** (Primary Contribution)
+- **Real-time trade publishing** with Socket.IO and Redis event pipelines
+- **Admin announcement system** with role-based permissions (JWT)
+- **Tag-based filtering** for market data analysis
+- Optimized WebSocket message batching for **500+ concurrent users**
 
-**Features:**
-- Uploading images with trading insights
-- Filtering (by tag, trader, date)
-- Real-time post notifications
-- Socket-driven content updates
-- Admin timeline management
-
-### 🔹 2. Resources Module (Minor)
-A lightweight CMS-style module for uploading and managing learning materials or external trade strategies.
-
-**Features:**
-- Admin resource upload and tagging
-- Role-based visibility
-- Integration with trade insights where applicable
-- Pipelined updates via Redis messaging
+### 📚 **Resources Module** (Secondary Contribution)
+- Curated knowledge base with **role-based access control**
+- Redis-backed content synchronization
+- Searchable interface with lazy-loaded assets
 
 ---
 
-## 🧪 Example Redis Pub/Sub Flow
+## 🛠 Tech Stack Deep Dive
 
-1. **User posts a trade** → `TradeSpace` emits `trade:posted` event  
-2. **Redis** publishes this event to all subscribers  
-3. **Socket Service** receives it and pushes to all connected clients in real time  
-4. **Analytics Microservice (future)** can listen and record stats asynchronously
-
----
-
-## 📂 Repository
-
-👉 GitHub Org: [TredStock-ai](https://github.com/TredStock-ai)  
-🔗 Modules Contributed: `TradeSpace`, `Resources`  
-🛠 Built By: Gowdaman ([@gowdaman.tech](https://gowdaman.tech))
+| Layer           | My Implementation Details                     |
+|-----------------|-----------------------------------------------|
+| **Frontend**    | React + TypeScript, Tailwind CSS, Socket.IO client |
+| **Backend**     | Express.js (TypeScript), Redis Pub/Sub        |
+| **Real-Time**   | Socket.IO rooms, Redis event pipelining       |
+| **Auth**        | JWT with role claims, API Gateway enforcement |
+| **DevOps**      | Dockerized microservices, CI/CD ready         |
 
 ---
 
-## 🧠 Future Possibilities
+## 🏗 Architecture (My Implementation)
 
-- Trade history timelines with D3.js or Chart.js integration  
-- Service discovery for dynamic scaling  
-- Full-text search using ElasticSearch  
-- Trader leaderboard system
-
----
-
-## 📬 Contact
-
-Looking to build scalable SaaS systems with real-time capabilities?  
-📩 Let's collaborate: [gowdaman.tech](https://gowdaman.tech)
-
----
-
+```mermaid
+graph LR
+    A[React Client] -->|API Calls| B[API Gateway]
+    B --> C[TradeSpace Microservice]
+    B --> D[Resources Microservice]
+    C -->|trade:posted| E[(Redis Pub/Sub)]
+    D -->|resource:updated| E
+    E --> F[Socket.IO Server]
+    F -->|Live Updates| A
