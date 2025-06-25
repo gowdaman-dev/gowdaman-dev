@@ -1,43 +1,78 @@
-# 📈 TradeScan | Full-Scale SaaS for Real-Time Trade Analytics
 
-> **Type:** Freelance Project  
-> **Architecture:** Scalable SaaS Platform with Real-Time Microservices  
-> **Primary Stack:** TypeScript • React.js • Express.js • Socket.io • Erratis • Microservices
-
----
-
-## 🧠 Project Overview
-
-**TradeScan** is a highly modular and scalable SaaS platform built for traders and analysts to explore, analyze, and share real-time trading intelligence. Designed with a multi-service architecture and modern dev practices, TradeScan serves as a performance-optimized hub that delivers **real-time insights**, **graphical data**, and **educational resources** to its users.
-
-### 🌐 Key Business Goal
-> To create a robust and interactive platform that gives traders access to dynamic trade visuals, admin-based market updates, real-time notifications, and resource-backed education — all powered by a high-speed backend pipeline and modern frontend experience.
+- **Redis Pub/Sub** enables service decoupling through channels like:
+  - `trade:posted`
+  - `resource:updated`
+  - `notify:user`
 
 ---
 
-## ⚙️ Core Technologies & Architecture
+## 🔧 Tech Stack
 
-| Layer         | Tech Stack |
-|--------------|-------------|
-| **Frontend** | `React.js` + `TypeScript`, TailwindCSS, modular components |
-| **Backend**  | `Express.js` + `TypeScript`, REST API + WebSocket (Socket.IO) |
-| **Real-Time**| `Socket.IO` for live data updates and stream handling |
-| **Messaging Pipeline** | `Erratis` (Channel-based microservice communication) |
-| **Architecture** | Microservices + API Gateway + Proxy Network |
-| **Dev Practices** | Modular design, role-based auth, pipeline abstraction, observability |
+| Layer        | Tech Used |
+|--------------|-----------|
+| Frontend     | React.js, TypeScript, Tailwind CSS |
+| Backend      | Express.js, TypeScript, REST API |
+| Realtime     | Socket.IO |
+| Messaging    | Redis (Pub/Sub) |
+| Auth         | JWT, Role-Based Access |
+| Architecture | Microservices + API Gateway |
+| Deployment   | Docker-ready, Scalable, CI/CD Friendly |
 
 ---
 
-## 🔗 System Flow
+## 💼 My Contributions (Freelance Role)
 
-```txt
-Client (React) 
-   ⬇ 
-API Gateway (Express + Proxy Layer)
-   ⬇
-→ Auth Service
-→ TradeSpace Microservice
-→ Resource Microservice
-→ Real-Time Socket Layer
-   ⬇
-Erratis Channels ⟶ Message Pipelines ⟶ Event-Driven Reactions
+### 🔷 1. TradeSpace Module (Major)
+A feature-rich module where traders and admins can publish trade analysis posts (with images, captions, and tags). Users can filter content and explore past trade patterns.
+
+**Features:**
+- Uploading images with trading insights
+- Filtering (by tag, trader, date)
+- Real-time post notifications
+- Socket-driven content updates
+- Admin timeline management
+
+### 🔹 2. Resources Module (Minor)
+A lightweight CMS-style module for uploading and managing learning materials or external trade strategies.
+
+**Features:**
+- Admin resource upload and tagging
+- Role-based visibility
+- Integration with trade insights where applicable
+- Pipelined updates via Redis messaging
+
+---
+
+## 🧪 Example Redis Pub/Sub Flow
+
+1. **User posts a trade** → `TradeSpace` emits `trade:posted` event  
+2. **Redis** publishes this event to all subscribers  
+3. **Socket Service** receives it and pushes to all connected clients in real time  
+4. **Analytics Microservice (future)** can listen and record stats asynchronously
+
+---
+
+## 📂 Repository
+
+👉 GitHub Org: [TredStock-ai](https://github.com/TredStock-ai)  
+🔗 Modules Contributed: `TradeSpace`, `Resources`  
+🛠 Built By: Gowdaman ([@gowdaman.tech](https://gowdaman.tech))
+
+---
+
+## 🧠 Future Possibilities
+
+- Trade history timelines with D3.js or Chart.js integration  
+- Service discovery for dynamic scaling  
+- Full-text search using ElasticSearch  
+- Trader leaderboard system
+
+---
+
+## 📬 Contact
+
+Looking to build scalable SaaS systems with real-time capabilities?  
+📩 Let's collaborate: [gowdaman.tech](https://gowdaman.tech)
+
+---
+
