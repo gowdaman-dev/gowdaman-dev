@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Gowdaman P 👋🏼
 
-🛜 currently working on my own [website](https://gowdaman.tech)<br>👨🏼‍🎓 AI enthusiast & Web Developer<br>👨🏼‍💻 Freelancer & Open-Source Contributor <br>🎬 Passionate about animations & Ghibli-style art
+🛜 currently working on my own [website](https://gowdaman.space)<br>👨🏼‍🎓 AI enthusiast & Web Developer<br>👨🏼‍💻 Freelancer & Open-Source Contributor <br>🎬 Passionate about animations & Ghibli-style art
 
 ---
 
