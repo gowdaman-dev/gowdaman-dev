@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%F0%9F%8D%84%20GOWDAMAN%20P%20%F0%9F%8D%84&fontSize=80&fontColor=E52521&theme=radical" alt="Mario Banner" />
+  <img src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/main/mario_animated_banner.svg" width="100%" alt="Mario Animated Banner" />
 </p>
 
 <h1 align="center">
