@@ -135,14 +135,14 @@ const gowdaman = {
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+## 🍄 Mario Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/output/pacman-contribution-graph.svg" width="100%" />
-  </picture>
+  <img alt="Mario contribution graph" src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/main/mario_contribution.svg?v=1" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Mario parkours across your contribution graph — jumps, collects coins, and enters the castle!</sub>
 </p>
 
 ---
