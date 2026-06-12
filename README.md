@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="Gowdaman P — Full-Stack Engineer" width="100%" />
+﻿<img src="banner_github.png" alt="Gowdaman P — Full-Stack Engineer" width="100%" />
 
 <h1 align="center">Hi, I'm Gowdaman P 👋</h1>
 
@@ -46,7 +46,11 @@ const gowdaman = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowdaman-dev&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🏆%20GitHub-Achievements-9b59b6?style=flat-square&logo=github&logoColor=white" alt="GitHub Achievements" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐%20Pro%20User-38bdae?style=flat-square&logo=github&logoColor=white" alt="Pro User" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔓%202FA-Enabled-2ecc71?style=flat-square&logo=github&logoColor=white" alt="2FA Enabled" />
 </p>
 
 ---
