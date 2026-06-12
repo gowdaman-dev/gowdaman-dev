@@ -127,34 +127,6 @@ const gowdaman = {
 
 ---
 
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/gowdaman-dev/saas-boilerplate-nextjs-16">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowdaman-dev&repo=saas-boilerplate-nextjs-16&theme=radical&hide_border=true" alt="SaaS Boilerplate" />
-  </a>
-  <a href="https://github.com/gowdaman-dev/nest-microservice-grpc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowdaman-dev&repo=nest-microservice-grpc&theme=radical&hide_border=true" alt="NestJS gRPC Microservices" />
-  </a>
-  <a href="https://github.com/gowdaman-dev/chronexa-time-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowdaman-dev&repo=chronexa-time-pro&theme=radical&hide_border=true" alt="Chronexa Time Pro" />
-  </a>
-  <a href="https://github.com/gowdaman-dev/identra-be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowdaman-dev&repo=identra-be&theme=radical&hide_border=true" alt="Identra Backend" />
-  </a>
-</p>
-
-| Project | Description | Stack |
-|---|---|---|
-| [saas-boilerplate-nextjs-16](https://github.com/gowdaman-dev/saas-boilerplate-nextjs-16) | Production-ready SaaS starter with auth, billing, and dashboards | Next.js, TypeScript |
-| [nest-microservice-grpc](https://github.com/gowdaman-dev/nest-microservice-grpc) | Microservices template powered by NestJS and gRPC | NestJS, gRPC |
-| [chronexa-time-pro](https://github.com/gowdaman-dev/chronexa-time-pro) | Workforce time-tracking & attendance management platform | TypeScript |
-| [identra-be](https://github.com/gowdaman-dev/identra-be) | Identity, access control & user management backend | NestJS, PostgreSQL |
-| [meetai](https://github.com/gowdaman-dev/meetai) | AI-powered meeting assistant and productivity suite | TypeScript |
-| [portfolio-vibe](https://github.com/gowdaman-dev/portfolio-vibe) | Animated personal portfolio with 3D & motion design | Next.js |
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
