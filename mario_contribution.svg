@@ -255,8 +255,8 @@
   <rect x="40" y="40" width="10" height="10" class="lvl2" />
   <rect x="40" y="54" width="10" height="10" class="lvl1" />
   <rect x="40" y="68" width="10" height="10" class="lvl1" />
-  <rect x="40" y="82" width="10" height="10" class="lvl2" />
-  <rect x="40" y="96" width="10" height="10" class="lvl4" />
+  <rect x="40" y="82" width="10" height="10" class="lvl1" />
+  <rect x="40" y="96" width="10" height="10" class="lvl3" />
   <rect x="40" y="110" width="10" height="10" class="lvl1" />
   <rect x="40" y="124" width="10" height="10" class="lvl1" />
   <rect x="54" y="40" width="10" height="10" class="empty" />
@@ -274,8 +274,8 @@
   <rect x="68" y="110" width="10" height="10" class="lvl1" />
   <rect x="68" y="124" width="10" height="10" class="lvl1" />
   <rect x="82" y="40" width="10" height="10" class="lvl1" />
-  <rect x="82" y="54" width="10" height="10" class="lvl2" />
-  <rect x="82" y="68" width="10" height="10" class="lvl3" />
+  <rect x="82" y="54" width="10" height="10" class="lvl1" />
+  <rect x="82" y="68" width="10" height="10" class="lvl2" />
   <rect x="82" y="82" width="10" height="10" class="lvl1" />
   <rect x="82" y="96" width="10" height="10" class="empty" />
   <rect x="82" y="110" width="10" height="10" class="empty" />
@@ -295,43 +295,43 @@
   <rect x="110" y="110" width="10" height="10" class="empty" />
   <rect x="110" y="124" width="10" height="10" class="empty" />
   <rect x="124" y="40" width="10" height="10" class="empty" />
-  <rect x="124" y="54" width="10" height="10" class="lvl2" />
-  <rect x="124" y="68" width="10" height="10" class="lvl3" />
-  <rect x="124" y="82" width="10" height="10" class="lvl3" />
-  <rect x="124" y="96" width="10" height="10" class="lvl4" />
-  <rect x="124" y="110" width="10" height="10" class="lvl2" />
-  <rect x="124" y="124" width="10" height="10" class="lvl3" />
+  <rect x="124" y="54" width="10" height="10" class="lvl1" />
+  <rect x="124" y="68" width="10" height="10" class="lvl2" />
+  <rect x="124" y="82" width="10" height="10" class="lvl2" />
+  <rect x="124" y="96" width="10" height="10" class="lvl2" />
+  <rect x="124" y="110" width="10" height="10" class="lvl1" />
+  <rect x="124" y="124" width="10" height="10" class="lvl2" />
   <rect x="138" y="40" width="10" height="10" class="lvl1" />
   <rect x="138" y="54" width="10" height="10" class="lvl2" />
-  <rect x="138" y="68" width="10" height="10" class="lvl2" />
-  <rect x="138" y="82" width="10" height="10" class="lvl2" />
+  <rect x="138" y="68" width="10" height="10" class="lvl1" />
+  <rect x="138" y="82" width="10" height="10" class="lvl1" />
   <rect x="138" y="96" width="10" height="10" class="lvl1" />
   <rect x="138" y="110" width="10" height="10" class="lvl1" />
-  <rect x="138" y="124" width="10" height="10" class="lvl2" />
+  <rect x="138" y="124" width="10" height="10" class="lvl1" />
   <rect x="152" y="40" width="10" height="10" class="empty" />
   <rect x="152" y="54" width="10" height="10" class="lvl1" />
-  <rect x="152" y="68" width="10" height="10" class="lvl2" />
+  <rect x="152" y="68" width="10" height="10" class="lvl1" />
   <rect x="152" y="82" width="10" height="10" class="lvl1" />
-  <rect x="152" y="96" width="10" height="10" class="lvl2" />
+  <rect x="152" y="96" width="10" height="10" class="lvl1" />
   <rect x="152" y="110" width="10" height="10" class="lvl1" />
   <rect x="152" y="124" width="10" height="10" class="lvl2" />
   <rect x="166" y="40" width="10" height="10" class="lvl1" />
   <rect x="166" y="54" width="10" height="10" class="lvl1" />
   <rect x="166" y="68" width="10" height="10" class="lvl1" />
   <rect x="166" y="82" width="10" height="10" class="lvl1" />
-  <rect x="166" y="96" width="10" height="10" class="lvl2" />
+  <rect x="166" y="96" width="10" height="10" class="lvl1" />
   <rect x="166" y="110" width="10" height="10" class="lvl1" />
-  <rect x="166" y="124" width="10" height="10" class="lvl2" />
-  <rect x="180" y="40" width="10" height="10" class="lvl2" />
-  <rect x="180" y="54" width="10" height="10" class="lvl3" />
+  <rect x="166" y="124" width="10" height="10" class="lvl1" />
+  <rect x="180" y="40" width="10" height="10" class="lvl1" />
+  <rect x="180" y="54" width="10" height="10" class="lvl2" />
   <rect x="180" y="68" width="10" height="10" class="lvl2" />
-  <rect x="180" y="82" width="10" height="10" class="lvl4" />
-  <rect x="180" y="96" width="10" height="10" class="lvl2" />
+  <rect x="180" y="82" width="10" height="10" class="lvl3" />
+  <rect x="180" y="96" width="10" height="10" class="lvl1" />
   <rect x="180" y="110" width="10" height="10" class="lvl1" />
   <rect x="180" y="124" width="10" height="10" class="lvl1" />
   <rect x="194" y="40" width="10" height="10" class="lvl1" />
   <rect x="194" y="54" width="10" height="10" class="lvl1" />
-  <rect x="194" y="68" width="10" height="10" class="lvl2" />
+  <rect x="194" y="68" width="10" height="10" class="lvl1" />
   <rect x="194" y="82" width="10" height="10" class="lvl1" />
   <rect x="194" y="96" width="10" height="10" class="lvl1" />
   <rect x="194" y="110" width="10" height="10" class="lvl1" />
@@ -342,43 +342,43 @@
   <rect x="208" y="82" width="10" height="10" class="empty" />
   <rect x="208" y="96" width="10" height="10" class="lvl1" />
   <rect x="208" y="110" width="10" height="10" class="empty" />
-  <rect x="208" y="124" width="10" height="10" class="lvl3" />
-  <rect x="222" y="40" width="10" height="10" class="lvl3" />
+  <rect x="208" y="124" width="10" height="10" class="lvl2" />
+  <rect x="222" y="40" width="10" height="10" class="lvl2" />
   <rect x="222" y="54" width="10" height="10" class="lvl1" />
-  <rect x="222" y="68" width="10" height="10" class="lvl2" />
+  <rect x="222" y="68" width="10" height="10" class="lvl1" />
   <rect x="222" y="82" width="10" height="10" class="lvl1" />
-  <rect x="222" y="96" width="10" height="10" class="lvl4" />
+  <rect x="222" y="96" width="10" height="10" class="lvl3" />
   <rect x="222" y="110" width="10" height="10" class="lvl1" />
   <rect x="222" y="124" width="10" height="10" class="lvl1" />
-  <rect x="236" y="40" width="10" height="10" class="lvl3" />
-  <rect x="236" y="54" width="10" height="10" class="lvl2" />
+  <rect x="236" y="40" width="10" height="10" class="lvl2" />
+  <rect x="236" y="54" width="10" height="10" class="lvl1" />
   <rect x="236" y="68" width="10" height="10" class="lvl1" />
   <rect x="236" y="82" width="10" height="10" class="lvl2" />
   <rect x="236" y="96" width="10" height="10" class="lvl2" />
-  <rect x="236" y="110" width="10" height="10" class="lvl2" />
+  <rect x="236" y="110" width="10" height="10" class="lvl1" />
   <rect x="236" y="124" width="10" height="10" class="lvl1" />
   <rect x="250" y="40" width="10" height="10" class="lvl1" />
   <rect x="250" y="54" width="10" height="10" class="lvl1" />
   <rect x="250" y="68" width="10" height="10" class="lvl2" />
-  <rect x="250" y="82" width="10" height="10" class="lvl2" />
+  <rect x="250" y="82" width="10" height="10" class="lvl1" />
   <rect x="250" y="96" width="10" height="10" class="lvl1" />
-  <rect x="250" y="110" width="10" height="10" class="lvl2" />
-  <rect x="250" y="124" width="10" height="10" class="lvl2" />
+  <rect x="250" y="110" width="10" height="10" class="lvl1" />
+  <rect x="250" y="124" width="10" height="10" class="lvl1" />
   <rect x="264" y="40" width="10" height="10" class="lvl2" />
-  <rect x="264" y="54" width="10" height="10" class="lvl2" />
+  <rect x="264" y="54" width="10" height="10" class="lvl1" />
   <rect x="264" y="68" width="10" height="10" class="lvl1" />
   <rect x="264" y="82" width="10" height="10" class="lvl1" />
-  <rect x="264" y="96" width="10" height="10" class="lvl2" />
+  <rect x="264" y="96" width="10" height="10" class="lvl1" />
   <rect x="264" y="110" width="10" height="10" class="lvl1" />
-  <rect x="264" y="124" width="10" height="10" class="lvl2" />
+  <rect x="264" y="124" width="10" height="10" class="lvl1" />
   <rect x="278" y="40" width="10" height="10" class="lvl1" />
   <rect x="278" y="54" width="10" height="10" class="lvl1" />
   <rect x="278" y="68" width="10" height="10" class="lvl1" />
-  <rect x="278" y="82" width="10" height="10" class="lvl3" />
-  <rect x="278" y="96" width="10" height="10" class="lvl2" />
+  <rect x="278" y="82" width="10" height="10" class="lvl2" />
+  <rect x="278" y="96" width="10" height="10" class="lvl1" />
   <rect x="278" y="110" width="10" height="10" class="empty" />
   <rect x="278" y="124" width="10" height="10" class="lvl1" />
-  <rect x="292" y="40" width="10" height="10" class="lvl2" />
+  <rect x="292" y="40" width="10" height="10" class="lvl1" />
   <rect x="292" y="54" width="10" height="10" class="empty" />
   <rect x="292" y="68" width="10" height="10" class="empty" />
   <rect x="292" y="82" width="10" height="10" class="lvl1" />
@@ -394,43 +394,43 @@
   <rect x="306" y="124" width="10" height="10" class="lvl1" />
   <rect x="320" y="40" width="10" height="10" class="lvl2" />
   <rect x="320" y="54" width="10" height="10" class="lvl1" />
-  <rect x="320" y="68" width="10" height="10" class="lvl2" />
-  <rect x="320" y="82" width="10" height="10" class="lvl3" />
+  <rect x="320" y="68" width="10" height="10" class="lvl1" />
+  <rect x="320" y="82" width="10" height="10" class="lvl2" />
   <rect x="320" y="96" width="10" height="10" class="lvl2" />
-  <rect x="320" y="110" width="10" height="10" class="lvl3" />
+  <rect x="320" y="110" width="10" height="10" class="lvl2" />
   <rect x="320" y="124" width="10" height="10" class="lvl1" />
   <rect x="334" y="40" width="10" height="10" class="lvl1" />
-  <rect x="334" y="54" width="10" height="10" class="lvl2" />
+  <rect x="334" y="54" width="10" height="10" class="lvl1" />
   <rect x="334" y="68" width="10" height="10" class="lvl1" />
   <rect x="334" y="82" width="10" height="10" class="lvl2" />
-  <rect x="334" y="96" width="10" height="10" class="lvl3" />
-  <rect x="334" y="110" width="10" height="10" class="lvl2" />
+  <rect x="334" y="96" width="10" height="10" class="lvl2" />
+  <rect x="334" y="110" width="10" height="10" class="lvl1" />
   <rect x="334" y="124" width="10" height="10" class="empty" />
   <rect x="348" y="40" width="10" height="10" class="lvl1" />
   <rect x="348" y="54" width="10" height="10" class="lvl1" />
-  <rect x="348" y="68" width="10" height="10" class="lvl2" />
-  <rect x="348" y="82" width="10" height="10" class="lvl2" />
+  <rect x="348" y="68" width="10" height="10" class="lvl1" />
+  <rect x="348" y="82" width="10" height="10" class="lvl1" />
   <rect x="348" y="96" width="10" height="10" class="lvl1" />
   <rect x="348" y="110" width="10" height="10" class="empty" />
   <rect x="348" y="124" width="10" height="10" class="lvl1" />
   <rect x="362" y="40" width="10" height="10" class="empty" />
   <rect x="362" y="54" width="10" height="10" class="lvl1" />
   <rect x="362" y="68" width="10" height="10" class="lvl1" />
-  <rect x="362" y="82" width="10" height="10" class="lvl2" />
-  <rect x="362" y="96" width="10" height="10" class="lvl4" />
+  <rect x="362" y="82" width="10" height="10" class="lvl1" />
+  <rect x="362" y="96" width="10" height="10" class="lvl3" />
   <rect x="362" y="110" width="10" height="10" class="lvl1" />
   <rect x="362" y="124" width="10" height="10" class="lvl2" />
   <rect x="376" y="40" width="10" height="10" class="lvl1" />
   <rect x="376" y="54" width="10" height="10" class="lvl2" />
-  <rect x="376" y="68" width="10" height="10" class="lvl2" />
-  <rect x="376" y="82" width="10" height="10" class="lvl3" />
-  <rect x="376" y="96" width="10" height="10" class="lvl3" />
+  <rect x="376" y="68" width="10" height="10" class="lvl1" />
+  <rect x="376" y="82" width="10" height="10" class="lvl2" />
+  <rect x="376" y="96" width="10" height="10" class="lvl2" />
   <rect x="376" y="110" width="10" height="10" class="lvl1" />
   <rect x="376" y="124" width="10" height="10" class="lvl1" />
   <rect x="390" y="40" width="10" height="10" class="empty" />
-  <rect x="390" y="54" width="10" height="10" class="lvl2" />
+  <rect x="390" y="54" width="10" height="10" class="lvl1" />
   <rect x="390" y="68" width="10" height="10" class="lvl2" />
-  <rect x="390" y="82" width="10" height="10" class="lvl2" />
+  <rect x="390" y="82" width="10" height="10" class="lvl1" />
   <rect x="390" y="96" width="10" height="10" class="lvl1" />
   <rect x="390" y="110" width="10" height="10" class="lvl2" />
   <rect x="390" y="124" width="10" height="10" class="lvl2" />
@@ -438,18 +438,18 @@
   <rect x="404" y="54" width="10" height="10" class="lvl2" />
   <rect x="404" y="68" width="10" height="10" class="lvl2" />
   <rect x="404" y="82" width="10" height="10" class="lvl1" />
-  <rect x="404" y="96" width="10" height="10" class="lvl2" />
+  <rect x="404" y="96" width="10" height="10" class="lvl1" />
   <rect x="404" y="110" width="10" height="10" class="lvl1" />
   <rect x="404" y="124" width="10" height="10" class="lvl1" />
   <rect x="418" y="40" width="10" height="10" class="empty" />
-  <rect x="418" y="54" width="10" height="10" class="lvl2" />
-  <rect x="418" y="68" width="10" height="10" class="lvl3" />
+  <rect x="418" y="54" width="10" height="10" class="lvl1" />
+  <rect x="418" y="68" width="10" height="10" class="lvl2" />
   <rect x="418" y="82" width="10" height="10" class="lvl2" />
   <rect x="418" y="96" width="10" height="10" class="lvl1" />
   <rect x="418" y="110" width="10" height="10" class="lvl1" />
   <rect x="418" y="124" width="10" height="10" class="empty" />
   <rect x="432" y="40" width="10" height="10" class="lvl1" />
-  <rect x="432" y="54" width="10" height="10" class="lvl2" />
+  <rect x="432" y="54" width="10" height="10" class="lvl1" />
   <rect x="432" y="68" width="10" height="10" class="lvl1" />
   <rect x="432" y="82" width="10" height="10" class="empty" />
   <rect x="432" y="96" width="10" height="10" class="empty" />
@@ -460,7 +460,7 @@
   <rect x="446" y="68" width="10" height="10" class="lvl1" />
   <rect x="446" y="82" width="10" height="10" class="lvl1" />
   <rect x="446" y="96" width="10" height="10" class="lvl1" />
-  <rect x="446" y="110" width="10" height="10" class="lvl2" />
+  <rect x="446" y="110" width="10" height="10" class="lvl1" />
   <rect x="446" y="124" width="10" height="10" class="empty" />
   <rect x="460" y="40" width="10" height="10" class="empty" />
   <rect x="460" y="54" width="10" height="10" class="empty" />
@@ -478,7 +478,7 @@
   <rect x="474" y="124" width="10" height="10" class="empty" />
   <rect x="488" y="40" width="10" height="10" class="empty" />
   <rect x="488" y="54" width="10" height="10" class="empty" />
-  <rect x="488" y="68" width="10" height="10" class="lvl2" />
+  <rect x="488" y="68" width="10" height="10" class="lvl1" />
   <rect x="488" y="82" width="10" height="10" class="lvl1" />
   <rect x="488" y="96" width="10" height="10" class="lvl1" />
   <rect x="488" y="110" width="10" height="10" class="lvl1" />
@@ -506,50 +506,50 @@
   <rect x="530" y="124" width="10" height="10" class="empty" />
   <rect x="544" y="40" width="10" height="10" class="lvl1" />
   <rect x="544" y="54" width="10" height="10" class="lvl1" />
-  <rect x="544" y="68" width="10" height="10" class="lvl2" />
-  <rect x="544" y="82" width="10" height="10" class="lvl3" />
-  <rect x="544" y="96" width="10" height="10" class="lvl2" />
-  <rect x="544" y="110" width="10" height="10" class="lvl3" />
+  <rect x="544" y="68" width="10" height="10" class="lvl1" />
+  <rect x="544" y="82" width="10" height="10" class="lvl2" />
+  <rect x="544" y="96" width="10" height="10" class="lvl1" />
+  <rect x="544" y="110" width="10" height="10" class="lvl2" />
   <rect x="544" y="124" width="10" height="10" class="empty" />
   <rect x="558" y="40" width="10" height="10" class="lvl1" />
-  <rect x="558" y="54" width="10" height="10" class="lvl3" />
-  <rect x="558" y="68" width="10" height="10" class="lvl2" />
+  <rect x="558" y="54" width="10" height="10" class="lvl2" />
+  <rect x="558" y="68" width="10" height="10" class="lvl1" />
   <rect x="558" y="82" width="10" height="10" class="lvl1" />
   <rect x="558" y="96" width="10" height="10" class="lvl2" />
-  <rect x="558" y="110" width="10" height="10" class="lvl3" />
-  <rect x="558" y="124" width="10" height="10" class="lvl2" />
-  <rect x="572" y="40" width="10" height="10" class="lvl2" />
-  <rect x="572" y="54" width="10" height="10" class="lvl2" />
+  <rect x="558" y="110" width="10" height="10" class="lvl2" />
+  <rect x="558" y="124" width="10" height="10" class="lvl1" />
+  <rect x="572" y="40" width="10" height="10" class="lvl1" />
+  <rect x="572" y="54" width="10" height="10" class="lvl1" />
   <rect x="572" y="68" width="10" height="10" class="lvl1" />
-  <rect x="572" y="82" width="10" height="10" class="lvl2" />
-  <rect x="572" y="96" width="10" height="10" class="lvl2" />
-  <rect x="572" y="110" width="10" height="10" class="lvl2" />
+  <rect x="572" y="82" width="10" height="10" class="lvl1" />
+  <rect x="572" y="96" width="10" height="10" class="lvl1" />
+  <rect x="572" y="110" width="10" height="10" class="lvl1" />
   <rect x="572" y="124" width="10" height="10" class="lvl1" />
   <rect x="586" y="40" width="10" height="10" class="empty" />
   <rect x="586" y="54" width="10" height="10" class="lvl1" />
   <rect x="586" y="68" width="10" height="10" class="lvl1" />
   <rect x="586" y="82" width="10" height="10" class="lvl2" />
-  <rect x="586" y="96" width="10" height="10" class="lvl2" />
+  <rect x="586" y="96" width="10" height="10" class="lvl1" />
   <rect x="586" y="110" width="10" height="10" class="lvl1" />
   <rect x="586" y="124" width="10" height="10" class="empty" />
   <rect x="600" y="40" width="10" height="10" class="empty" />
-  <rect x="600" y="54" width="10" height="10" class="lvl2" />
+  <rect x="600" y="54" width="10" height="10" class="lvl1" />
   <rect x="600" y="68" width="10" height="10" class="lvl1" />
   <rect x="600" y="82" width="10" height="10" class="lvl1" />
   <rect x="600" y="96" width="10" height="10" class="lvl1" />
-  <rect x="600" y="110" width="10" height="10" class="lvl4" />
+  <rect x="600" y="110" width="10" height="10" class="lvl2" />
   <rect x="600" y="124" width="10" height="10" class="lvl1" />
   <rect x="614" y="40" width="10" height="10" class="empty" />
-  <rect x="614" y="54" width="10" height="10" class="lvl2" />
+  <rect x="614" y="54" width="10" height="10" class="lvl1" />
   <rect x="614" y="68" width="10" height="10" class="lvl1" />
   <rect x="614" y="82" width="10" height="10" class="lvl1" />
-  <rect x="614" y="96" width="10" height="10" class="lvl2" />
+  <rect x="614" y="96" width="10" height="10" class="lvl1" />
   <rect x="614" y="110" width="10" height="10" class="lvl1" />
   <rect x="614" y="124" width="10" height="10" class="lvl1" />
   <rect x="628" y="40" width="10" height="10" class="empty" />
-  <rect x="628" y="54" width="10" height="10" class="lvl2" />
+  <rect x="628" y="54" width="10" height="10" class="lvl1" />
   <rect x="628" y="68" width="10" height="10" class="lvl1" />
-  <rect x="628" y="82" width="10" height="10" class="lvl2" />
+  <rect x="628" y="82" width="10" height="10" class="lvl1" />
   <rect x="628" y="96" width="10" height="10" class="lvl1" />
   <rect x="628" y="110" width="10" height="10" class="lvl1" />
   <rect x="628" y="124" width="10" height="10" class="lvl1" />
@@ -558,18 +558,18 @@
   <rect x="642" y="68" width="10" height="10" class="lvl1" />
   <rect x="642" y="82" width="10" height="10" class="lvl1" />
   <rect x="642" y="96" width="10" height="10" class="lvl1" />
-  <rect x="642" y="110" width="10" height="10" class="lvl2" />
+  <rect x="642" y="110" width="10" height="10" class="lvl1" />
   <rect x="642" y="124" width="10" height="10" class="lvl1" />
   <rect x="656" y="40" width="10" height="10" class="lvl1" />
-  <rect x="656" y="54" width="10" height="10" class="lvl2" />
+  <rect x="656" y="54" width="10" height="10" class="lvl1" />
   <rect x="656" y="68" width="10" height="10" class="lvl1" />
   <rect x="656" y="82" width="10" height="10" class="lvl1" />
   <rect x="656" y="96" width="10" height="10" class="lvl1" />
-  <rect x="656" y="110" width="10" height="10" class="lvl2" />
+  <rect x="656" y="110" width="10" height="10" class="lvl1" />
   <rect x="656" y="124" width="10" height="10" class="lvl1" />
   <rect x="670" y="40" width="10" height="10" class="empty" />
-  <rect x="670" y="54" width="10" height="10" class="lvl2" />
-  <rect x="670" y="68" width="10" height="10" class="lvl2" />
+  <rect x="670" y="54" width="10" height="10" class="lvl1" />
+  <rect x="670" y="68" width="10" height="10" class="lvl1" />
   <rect x="670" y="82" width="10" height="10" class="lvl1" />
   <rect x="670" y="96" width="10" height="10" class="lvl1" />
   <rect x="670" y="110" width="10" height="10" class="lvl1" />
@@ -577,107 +577,52 @@
   <rect x="684" y="40" width="10" height="10" class="lvl1" />
   <rect x="684" y="54" width="10" height="10" class="lvl1" />
   <rect x="684" y="68" width="10" height="10" class="lvl1" />
-  <rect x="684" y="82" width="10" height="10" class="lvl2" />
-  <rect x="684" y="96" width="10" height="10" class="lvl2" />
+  <rect x="684" y="82" width="10" height="10" class="lvl1" />
+  <rect x="684" y="96" width="10" height="10" class="lvl1" />
   <rect x="684" y="110" width="10" height="10" class="lvl1" />
   <rect x="684" y="124" width="10" height="10" class="lvl1" />
   <rect x="698" y="40" width="10" height="10" class="empty" />
   <rect x="698" y="54" width="10" height="10" class="lvl2" />
-  <rect x="698" y="68" width="10" height="10" class="lvl3" />
-  <rect x="698" y="82" width="10" height="10" class="lvl4" />
+  <rect x="698" y="68" width="10" height="10" class="lvl2" />
+  <rect x="698" y="82" width="10" height="10" class="lvl3" />
   <rect x="698" y="96" width="10" height="10" class="lvl4" />
-  <rect x="698" y="110" width="10" height="10" class="lvl4" />
-  <rect x="698" y="124" width="10" height="10" class="lvl2" />
+  <rect x="698" y="110" width="10" height="10" class="lvl3" />
+  <rect x="698" y="124" width="10" height="10" class="lvl1" />
   <rect x="712" y="40" width="10" height="10" class="empty" />
   <rect x="712" y="54" width="10" height="10" class="lvl1" />
-  <rect x="712" y="68" width="10" height="10" class="lvl2" />
+  <rect x="712" y="68" width="10" height="10" class="lvl1" />
   <rect x="712" y="82" width="10" height="10" class="lvl1" />
   <rect x="712" y="96" width="10" height="10" class="lvl1" />
   <rect x="712" y="110" width="10" height="10" class="lvl1" />
   <rect x="712" y="124" width="10" height="10" class="lvl2" />
   <rect x="726" y="40" width="10" height="10" class="empty" />
   <rect x="726" y="54" width="10" height="10" class="lvl1" />
-  <rect x="726" y="68" width="10" height="10" class="lvl2" />
-  <rect x="726" y="82" width="10" height="10" class="lvl2" />
+  <rect x="726" y="68" width="10" height="10" class="lvl1" />
+  <rect x="726" y="82" width="10" height="10" class="lvl1" />
   <rect x="726" y="96" width="10" height="10" class="empty" />
-  <rect x="726" y="110" width="10" height="10" class="lvl2" />
+  <rect x="726" y="110" width="10" height="10" class="lvl1" />
   <rect x="726" y="124" width="10" height="10" class="lvl1" />
   <rect x="740" y="40" width="10" height="10" class="empty" />
   <rect x="740" y="54" width="10" height="10" class="empty" />
   <rect x="740" y="68" width="10" height="10" class="lvl1" />
-  <rect x="740" y="82" width="10" height="10" class="lvl2" />
+  <rect x="740" y="82" width="10" height="10" class="lvl1" />
   <rect x="740" y="96" width="10" height="10" class="lvl1" />
-  <rect x="740" y="110" width="10" height="10" class="lvl2" />
+  <rect x="740" y="110" width="10" height="10" class="lvl1" />
   <rect x="740" y="124" width="10" height="10" class="empty" />
-  <rect x="754" y="40" width="10" height="10" class="lvl2" />
-  <rect x="754" y="54" width="10" height="10" class="lvl3" />
-  <rect x="754" y="68" width="10" height="10" class="lvl2" />
+  <rect x="754" y="40" width="10" height="10" class="lvl1" />
+  <rect x="754" y="54" width="10" height="10" class="lvl2" />
+  <rect x="754" y="68" width="10" height="10" class="lvl1" />
   <rect x="754" y="82" width="10" height="10" class="lvl1" />
   <rect x="754" y="96" width="10" height="10" class="lvl1" />
   <rect x="754" y="110" width="10" height="10" class="empty" />
-  <rect x="754" y="124" width="10" height="10" class="lvl3" />
+  <rect x="754" y="124" width="10" height="10" class="lvl2" />
   <rect x="768" y="40" width="10" height="10" class="empty" />
   <rect x="768" y="54" width="10" height="10" class="lvl1" />
   <rect x="768" y="68" width="10" height="10" class="lvl1" />
   <rect x="768" y="82" width="10" height="10" class="lvl1" />
   <rect x="768" y="96" width="10" height="10" class="lvl4" />
-  <g transform="translate(40, 84)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.035;0.065;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.035;0.065;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(124, 84)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.135;0.165;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.135;0.165;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(180, 70)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.201;0.231;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.201;0.231;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(222, 84)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.250;0.280;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.250;0.280;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(362, 84)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.416;0.446;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.416;0.446;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(600, 98)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.697;0.727;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.697;0.727;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(698, 70)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
+  <rect x="768" y="110" width="10" height="10" class="empty" />
   <g transform="translate(698, 84)">
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
-      <use href="#coin" x="0" y="0" />
-    </g>
-  </g>
-  <g transform="translate(698, 98)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.812;0.842;1" dur="20s" repeatCount="indefinite" />
