@@ -604,20 +604,21 @@
   <rect x="726" y="124" width="10" height="10" class="empty" />
   <rect x="740" y="40" width="10" height="10" class="lvl2" />
   <rect x="740" y="54" width="10" height="10" class="lvl3" />
-  <rect x="740" y="68" width="10" height="10" class="lvl2" />
-  <rect x="740" y="82" width="10" height="10" class="lvl1" />
+  <rect x="740" y="68" width="10" height="10" class="lvl3" />
+  <rect x="740" y="82" width="10" height="10" class="lvl2" />
   <rect x="740" y="96" width="10" height="10" class="lvl1" />
   <rect x="740" y="110" width="10" height="10" class="empty" />
   <rect x="740" y="124" width="10" height="10" class="lvl3" />
   <rect x="754" y="40" width="10" height="10" class="empty" />
-  <rect x="754" y="54" width="10" height="10" class="lvl1" />
-  <rect x="754" y="68" width="10" height="10" class="lvl1" />
+  <rect x="754" y="54" width="10" height="10" class="lvl2" />
+  <rect x="754" y="68" width="10" height="10" class="lvl2" />
   <rect x="754" y="82" width="10" height="10" class="lvl1" />
   <rect x="754" y="96" width="10" height="10" class="lvl4" />
   <rect x="754" y="110" width="10" height="10" class="lvl2" />
   <rect x="754" y="124" width="10" height="10" class="empty" />
   <rect x="768" y="40" width="10" height="10" class="empty" />
-  <rect x="768" y="54" width="10" height="10" class="empty" />
+  <rect x="768" y="54" width="10" height="10" class="lvl1" />
+  <rect x="768" y="68" width="10" height="10" class="empty" />
   <g transform="translate(110, 70)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,-20; 0,-20" keyTimes="0;0.118;0.148;1" dur="20s" repeatCount="indefinite" />
@@ -743,7 +744,7 @@
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,93; 0,93" keyTimes="0;0.929;0.979;1" dur="20s" repeatCount="indefinite" />
     <polygon points="782,35 797,35 797,45" fill="#00A800" stroke="#000"/>
   </g>
-  <path id="parkour-path" d="M 14 138 L 14 94  Q 27.0 43 40 68 Q 47.0 29 54 54 Q 61.0 1 68 26 L 82 26 Q 89.0 1 96 68 Q 103.0 15 110 40 Q 117.0 1 124 26 Q 131.0 1 138 40 Q 145.0 1 152 26 L 166 26 L 180 26 Q 187.0 1 194 40 Q 201.0 1 208 26 L 222 26 L 236 26 L 250 26 L 264 26 L 278 26 L 292 26 L 306 26 L 320 26 L 334 26 Q 341.0 1 348 40 Q 355.0 1 362 26 Q 369.0 1 376 40 L 390 40 L 404 40 Q 411.0 1 418 26 L 432 26 Q 439.0 1 446 124 Q 453.0 15 460 40 Q 467.0 15 474 54 Q 481.0 15 488 40 L 502 40 Q 509.0 1 516 26 L 530 26 L 544 26 L 558 26 Q 565.0 1 572 40 L 586 40 L 600 40 L 614 40 Q 621.0 1 628 26 L 642 26 Q 649.0 1 656 40 Q 663.0 1 670 26 Q 677.0 1 684 40 L 698 40 L 712 40 Q 719.0 15 726 54 Q 733.0 1 740 26 Q 747.0 1 754 40 Q 761.0 15 768 124 Q 778 104 793 40  L 793 124  L 847 124 " fill="none" stroke="none" />
+  <path id="parkour-path" d="M 14 138 L 14 94  Q 27.0 43 40 68 Q 47.0 29 54 54 Q 61.0 1 68 26 L 82 26 Q 89.0 1 96 68 Q 103.0 15 110 40 Q 117.0 1 124 26 Q 131.0 1 138 40 Q 145.0 1 152 26 L 166 26 L 180 26 Q 187.0 1 194 40 Q 201.0 1 208 26 L 222 26 L 236 26 L 250 26 L 264 26 L 278 26 L 292 26 L 306 26 L 320 26 L 334 26 Q 341.0 1 348 40 Q 355.0 1 362 26 Q 369.0 1 376 40 L 390 40 L 404 40 Q 411.0 1 418 26 L 432 26 Q 439.0 1 446 124 Q 453.0 15 460 40 Q 467.0 15 474 54 Q 481.0 15 488 40 L 502 40 Q 509.0 1 516 26 L 530 26 L 544 26 L 558 26 Q 565.0 1 572 40 L 586 40 L 600 40 L 614 40 Q 621.0 1 628 26 L 642 26 Q 649.0 1 656 40 Q 663.0 1 670 26 Q 677.0 1 684 40 L 698 40 L 712 40 Q 719.0 15 726 54 Q 733.0 1 740 26 Q 747.0 1 754 40 L 768 40 Q 778 20 793 40  L 793 124  L 847 124 " fill="none" stroke="none" />
   <use href="#mario">
     <animateMotion dur="20s" repeatCount="indefinite"><mpath href="#parkour-path"/></animateMotion>
   </use>
