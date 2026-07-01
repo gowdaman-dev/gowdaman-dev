@@ -1,9 +1,8 @@
 
+<br/>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,3,5,30&section=header&fontSize=0&reversal=false">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,3,5,30&section=header&fontSize=0" width="100%" alt="header" />
-  </picture>
+  <sub style="font-family: 'Courier New', monospace; letter-spacing: 6px; color: #8b7355; font-size: 0.8em;">✦ &nbsp; P R O F I L E &nbsp; ✦</sub>
 </div>
 
 <br/>
@@ -359,6 +358,6 @@
   <sub>
     <img src="https://img.shields.io/badge/-Crafted%20with%20precision%20and%20purpose-1a1f2e?style=flat-square&labelColor=c9a84c" alt="Crafted" />
   </sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,3,5,30&section=footer&reversal=false" width="100%" alt="footer" />
+  <br/><br/>
+  <code style="color: #3a3f4f; font-size: 0.7em;">────────────────────────────────────────────────</code>
 </div>
