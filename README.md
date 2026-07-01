@@ -1,174 +1,364 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/main/mario_animated_banner.svg" width="100%" alt="Mario Animated Banner" />
-</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,3,5,30&section=header&fontSize=0&reversal=false">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,3,5,30&section=header&fontSize=0" width="100%" alt="header" />
+  </picture>
+</div>
+
+<br/>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/🍄-MARIO%20PROFILE-FF0000?style=for-the-badge" alt="Mario Profile" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=44&duration=4500&pause=800&color=C9A84C&center=true&vCenter=true&width=600&lines=Gowdaman+P;Enterprise+Architect;Full-Stack+Engineer;System+Designer" alt="Typing SVG" />
 </h1>
 
+<h3 align="center" style="font-weight: 300; letter-spacing: 2px; color: #8b7355;">
+  <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+  <br/>
+  <sub>Enterprise Architecture · Microservices · Cloud-Native Systems · AI Integration</sub>
+  <br/>
+  <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gowdaman-dev&label=Profile+Views&color=c9a84c&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/gowdaman-dev?color=c9a84c&label=Followers&logo=github&style=flat-square" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/gowdaman-dev?color=c9a84c&label=Stars&logo=star&style=flat-square" alt="Stars" />
+</div>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ABOUT SECTION                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <h2 align="center">
-  <img src="https://img.shields.io/badge/⭐-IT'S-A%20ME%20GOWDAMAN-FFD700?style=flat-square" alt="It's-a me Gowdaman" />
+  <img src="https://img.shields.io/badge/-%C2%A7%20About-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="About" />
 </h2>
 
-<p align="center">
-  <b>🍄 Full-Stack Engineer · Microservices Architect · SaaS & ERP Developer · AI Explorer</b><br/>
-  <i>"Let's-a go!" — Building scalable, high-performance systems with modern cloud-native tooling</i><br/>
-  🏰 Currently shaping my digital presence at <a href="https://gowdaman.space">gowdaman.space</a>
-</p>
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        Architecting enterprise-grade distributed systems with a focus on <strong>microservices</strong>,
+        <strong>event-driven architecture</strong>, and <strong>cloud-native deployments</strong>.
+        I specialize in transforming complex business requirements into elegant, scalable software
+        solutions — from identity and access management platforms to workforce scheduling ecosystems.
+      </p>
+      <p>
+        Currently engineering the next generation of <strong>AI-augmented agent orchestration</strong>
+        platforms while delivering production-grade SaaS infrastructure for enterprise clients.
+        Every system I build is designed with <strong>observability</strong>, <strong>resilience</strong>,
+        and <strong>operational excellence</strong> as first-class concerns.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-%22Clean%20architecture%20is%20not%20about%20frameworks%2C%20it%27s%20about%20boundaries%22-c9a84c?style=flat-square&labelColor=1a1f2e" alt="Quote" />
+      </p>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaman-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=8b7355&card_width=280" alt="Top Languages" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  EXPERTISE MATRIX                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-%E2%98%A6%20Expertise-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="Expertise" />
+</h2>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Backend%20%26%20API-1a1f2e?style=for-the-badge&logoColor=c9a84c" alt="Backend" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gowdaman-dev&label=🍄%20Player%20Visits&color=E52521&style=flat" alt="Player Visits" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST" />
+</p>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Frontend%20%26%20Mobile-1a1f2e?style=for-the-badge&logoColor=c9a84c" alt="Frontend" />
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Database%20%26%20Storage-1a1f2e?style=for-the-badge&logoColor=c9a84c" alt="Database" />
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Infrastructure%20%26%20Messaging-1a1f2e?style=for-the-badge&logoColor=c9a84c" alt="Infrastructure" />
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white" alt="NATS" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+</p>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ARCHITECTURE PHILOSOPHY                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-%E2%99%9C%20Architecture%20Philosophy-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="Philosophy" />
+</h2>
+
+<br/>
+
+<table align="center" border="0" cellpadding="12">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎯</h3>
+      <h4>Domain-Driven</h4>
+      <sub>Bounded contexts, ubiquitous language, aggregate roots that model real business invariants</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚡</h3>
+      <h4>Event-Driven</h4>
+      <sub>Asynchronous messaging, event sourcing, CQRS patterns for scalable, decoupled systems</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔮</h3>
+      <h4>Observable</h4>
+      <sub>Distributed tracing, structured logging, metrics-driven operations with OpenTelemetry</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️</h3>
+      <h4>Secure by Design</h4>
+      <sub>Zero-trust architecture, RBAC, OAuth 2.0, multi-tenant isolation, defense in depth</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-%E2%98%85%20Featured%20Projects-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="Projects" />
+</h2>
+
+<br/>
+
+<table align="center" border="0" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/rimuru--ai-c9a84c?style=flat-square&logo=github" alt="rimuru-ai" />
+      </h3>
+      <p>
+        <strong>Agent orchestration platform</strong> — A sophisticated multi-agent coordination
+        framework that enables autonomous AI agents to collaborate, communicate, and execute
+        complex workflows across distributed systems.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TS" />
+        <img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos" alt="Nix" />
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro" alt="Astro" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Chronexa%20Time--Pro-c9a84c?style=flat-square&logo=github" alt="Chronexa" />
+      </h3>
+      <p>
+        <strong>Enterprise workforce management platform</strong> — End-to-end time tracking,
+        attendance management, and scheduling system built with NestJS microservices,
+        React frontend, and event-driven messaging.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" alt="NestJS" />
+        <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc" alt="gRPC" />
+        <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=nats" alt="NATS" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Identra-c9a84c?style=flat-square&logo=github" alt="Identra" />
+      </h3>
+      <p>
+        <strong>Identity & access management platform</strong> — Production-grade IAM system
+        with fine-grained RBAC, OAuth 2.0/OIDC authentication, multi-tenant architecture,
+        and comprehensive audit logging.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" alt="NestJS" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" alt="JWT" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/Ghobash%20MS--BE-c9a84c?style=flat-square&logo=github" alt="Ghobash" />
+      </h3>
+      <p>
+        <strong>Enterprise microservices backend</strong> — Multi-service workforce scheduling
+        and management platform featuring service discovery, API gateway, event-driven
+        communication, and containerized deployment.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TS" />
+        <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=moleculer" alt="Microservices" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/SaaS%20Boilerplate-c9a84c?style=flat-square&logo=github" alt="SaaS Boilerplate" />
+      </h3>
+      <p>
+        <strong>Production-ready SaaS starter</strong> — Next.js 16 boilerplate with
+        authentication, Stripe billing, RBAC, multi-tenant dashboards, SEO, and
+        comprehensive testing — everything needed to launch a SaaS.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe" alt="Stripe" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/MeetAI-c9a84c?style=flat-square&logo=github" alt="MeetAI" />
+      </h3>
+      <p>
+        <strong>AI-powered meeting assistant</strong> — Real-time transcription, action
+        item extraction, and intelligent summarization using LLMs. Built with modern
+        web technologies and AI/ML integration.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow" alt="AI" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB ANALYTICS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-%E2%88%9E%20GitHub%20Analytics-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="Analytics" />
+</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowdaman-dev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=e8e0d0&border_radius=8" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=gowdaman-dev&theme=github-dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c" height="180" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowdaman-dev&bg_color=0d1117&color=c9a84c&line=c9a84c&point=e8e0d0&area=true&area_color=c9a84c&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONNECT                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-%E2%99%A2%20Connect-1a1f2e?style=for-the-badge&labelColor=c9a84c" alt="Connect" />
+</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gowdaman-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=c9a84c&labelColor=1a1f2e" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="https://linkedin.com/in/gowdaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://gowdaman.space"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="https://gowdaman.tech"><img src="https://img.shields.io/badge/Blog-FFD700?style=flat-square&logo=hashnode&logoColor=black"/></a>
-  <a href="mailto:hello@gowdaman.space"><img src="https://img.shields.io/badge/Email-EC4899?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 🍄 World 1-1: About Me
-
-```javascript
-// 🎮 Player Profile
-const gowdaman = {
-  world: "Full-Stack Architect",
-  powerUps: ["Microservices", "SaaS Platforms", "ERP Systems", "AI Integration"],
-  inventory: ["TypeScript", "NestJS", "Next.js", "React Native", "PostgreSQL", "Docker"],
-  quest: "Turning complex problems into clean, scalable systems",
-  currentLevel: "Enterprise-grade apps at gowdaman.space"
-};
-```
-
----
-
-## ⭐ Power-Ups: Tech Stack
-
-### 🍄 Languages (Power Stars)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🍄 Backend & APIs (Fire Flowers)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009639?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-
-### 🍄 Frontend & Mobile (Super Mushrooms)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🍄 State & Data (1-UP Mushrooms)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-3F2C1D?style=for-the-badge&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🍄 Infrastructure & Messaging (Warp Pipes)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🍄 Animation & Creative (Star Power)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
----
-
-## 🏰 World Map: Architecture & Expertise
-
-```
-🍄 Microservices & SaaS
-  ├── NestJS services with gRPC / REST / GraphQL
-  ├── Event-driven messaging (NATS · RabbitMQ · Kafka)
-  ├── Containerized deployments with Docker & GitHub Actions
-  └── Multi-tenant RBAC, billing & analytics
-
-🍄 Product Engineering
-  ├── Next.js & React frontend ecosystems
-  ├── React Native + Expo cross-platform apps
-  ├── Real-time systems (WebSockets, live dashboards)
-  └── Performance-first UI/UX with GSAP & Framer Motion
-
-🍄 Data & AI
-  ├── PostgreSQL / MongoDB / MySQL data modeling
-  ├── Prisma & TypeORM ORMs
-  ├── LLM & AI integrations in production workflows
-  └── Scalable caching & search strategies
-```
-
----
-
-## 📊 Score Board: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowdaman-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <a href="https://gowdaman.space">
+    <img src="https://img.shields.io/badge/Portfolio-0A0E1A?style=for-the-badge&logo=vercel&logoColor=c9a84c&labelColor=1a1f2e" alt="Portfolio" />
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaman-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaman-dev&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20GitHub-Achievements-9b59b6?style=flat-square&logo=github&logoColor=white" alt="GitHub Achievements" />
+  <a href="https://gowdaman.tech">
+    <img src="https://img.shields.io/badge/Blog-0A0E1A?style=for-the-badge&logo=hashnode&logoColor=c9a84c&labelColor=1a1f2e" alt="Blog" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/⭐%20Pro%20User-38bdae?style=flat-square&logo=github&logoColor=white" alt="Pro User" />
+  <a href="https://github.com/gowdaman-dev">
+    <img src="https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=c9a84c&labelColor=1a1f2e" alt="GitHub" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/🔓%202FA-Enabled-2ecc71?style=flat-square&logo=github&logoColor=white" alt="2FA Enabled" />
+  <a href="mailto:hello@gowdaman.space">
+    <img src="https://img.shields.io/badge/Email-0A0E1A?style=for-the-badge&logo=gmail&logoColor=c9a84c&labelColor=1a1f2e" alt="Email" />
+  </a>
 </p>
 
----
+<br/>
 
-## 🍄 Mario's Adventure: Contribution Graph
-
-<p align="center">
-  <img alt="Mario contribution graph" src="https://raw.githubusercontent.com/gowdaman-dev/gowdaman-dev/main/mario_contribution.svg?v=1" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🍄-MARIO%20PARKOUR-E52521?style=flat-square" alt="Mario Parkour" />
-  <i>Mario parkours across your contribution graph — jumps, collects coins, and enters the castle!</i>
-</p>
-
----
-
-## 🌟 Star World: Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/gowdaman-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://gowdaman.space"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://gowdaman.tech"><img src="https://img.shields.io/badge/Blog-FFD700?style=for-the-badge&logo=hashnode&logoColor=black" alt="Blog"/></a>
-  <a href="https://github.com/gowdaman-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:hello@gowdaman.space"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐-FEEL%20FREE%20TO%20STAR%20MY%20PROJECTS%20AND%20FOLLOW%20FOR%20UPDATES!-FFD700?style=flat-square" alt="Star Projects" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🍄-THANK%20YOU%20SO%20MUCH%20FOR%20PLAYING!-E52521?style=for-the-badge" alt="Thank You" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Gowdaman%20P-E52521?style=flat-square" alt="Made with Love" />
-</p>
+<div align="center">
+  <sub>
+    <img src="https://img.shields.io/badge/-Crafted%20with%20precision%20and%20purpose-1a1f2e?style=flat-square&labelColor=c9a84c" alt="Crafted" />
+  </sub>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,3,5,30&section=footer&reversal=false" width="100%" alt="footer" />
+</div>
