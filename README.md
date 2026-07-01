@@ -63,14 +63,19 @@
     </td>
     <td width="35%" valign="top" align="center">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowdaman-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&text_color=8b7355&card_width=280" alt="Top Languages" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <sub style="color: #8b7355; font-size: 0.85em;">Primary Languages</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <br/>
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <br/>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <br/>
+      <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
     </td>
   </tr>
 </table>
@@ -306,9 +311,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gowdaman-dev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=e8e0d0&border_radius=8" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=gowdaman-dev&theme=github-dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c" height="180" alt="Streak Stats" />
+  <img src="https://img.shields.io/github/stars/gowdaman-dev?color=c9a84c&style=for-the-badge&logo=star&logoColor=white&labelColor=1a1f2e&label=Stars" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/gowdaman-dev?color=c9a84c&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1f2e&label=Followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repositories-12-c9a84c?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1f2e" alt="Repos" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gowdaman-dev&theme=github-dark&hide_border=true&background=0d1117&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c" height="170" alt="Streak Stats" />
 </div>
 
 <br/>
